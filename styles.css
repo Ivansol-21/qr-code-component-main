@@ -26,13 +26,15 @@ body {
 }
 .texto {
     width: 100%;
-    padding: 0 15px 2px;
+    padding: 0 16px;
     box-sizing: border-box;
     font-family: Outfit;
 }
 .margen {
-    margin:0 0 16px 0;
+    margin:0 0 16px;
     font-size: 22px;
+    color: rgb(31, 49, 79);
+    line-height: 120%;
 }
 .tamaño-imagen{
     min-width: 278px;
@@ -43,6 +45,8 @@ p {
     margin: 0;
     font-size: 15px;
     color: #68778D;
+    letter-spacing: 0.2px;
+    line-height: 140%;
 }
 img {
     width: 100%;
